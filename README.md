@@ -6,4 +6,4 @@ Scala 2.12
 
 
 # Algorithm
-The program uses a backtracking algorithm to solve the Knight's Tour problem. At each step, the program considers all possible moves for the knight and selects the move that results in the fewest future moves. If a move leads to a dead end, the program backtracks and tries a different move.
+The program uses a backtracking recursive algorithm to solve the Knight's Tour problem. At each step, the program considers all possible moves for the knight. If a move leads to a dead end, the program backtracks and tries a different move.
